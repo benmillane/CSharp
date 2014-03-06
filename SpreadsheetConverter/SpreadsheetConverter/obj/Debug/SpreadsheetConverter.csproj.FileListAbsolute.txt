@@ -1,0 +1,8 @@
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\bin\Debug\SpreadsheetClass.dll
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\bin\Debug\SpreadsheetClass.pdb
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\bin\Debug\Ionic.Zip.dll
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\bin\Debug\NPOI.dll
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\bin\Debug\NPOI.xml
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\obj\Debug\SpreadsheetConverter.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\obj\Debug\SpreadsheetClass.dll
+c:\users\ben\documents\visual studio 2013\Projects\SpreadsheetClass\SpreadsheetClass\obj\Debug\SpreadsheetClass.pdb
